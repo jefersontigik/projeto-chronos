@@ -8,7 +8,9 @@ export function App(){
     console.log("Olá Mundo!")
     return(
         <Fragment>
-            <Heading/>
+            <Heading>Olá Mundo 0!</Heading>
+            <Heading>Olá Mundo 1!</Heading>
+            <Heading>Olá Mundo 2!</Heading>
             <p>
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                 Neque nam cum soluta voluptatum fugit magni blanditiis.
