@@ -16,15 +16,13 @@ body{
     font-size: 1.6rem; /*16px*/
 }
 
-h1{
-    color: var(--primary-color);
-    text-align: center;
-    margin-top: 20px;
+.container{
+    background-color:rgb(171, 213, 129);
+    max-width: 38rem;
+    margin: 0 auto;
 }
 
-p{
-    color: var(--text-color);
-    max-width: 500px;
-    margin: 20px auto;
-    line-height: 1.5;
+.content{
+    background-color: brown;
+    margin: 3.2rem;
 }
